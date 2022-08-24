@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mwalim19
+- 👀 I’m interested in statistics, data science and analysis
+- 🌱 I’m currently learning MATLAB, R-PROGRAMMING AND APPLIED STATISTICS
+- 💞️ I’m looking to collaborate on the area of statidtical analysis using R and MATLAB
+- 📫 How to reach me (Email: mwalimk57@gmail.com)
